@@ -1,0 +1,16 @@
+body {
+  background: black;
+  background-color: blue;
+}
+form {
+  width: 550px;
+  margin: auto;
+  color: aliceblue;
+}
+#submit {
+  width: 550px;
+}
+img {
+  margin-left: 550px;
+  padding: 20px;
+}
